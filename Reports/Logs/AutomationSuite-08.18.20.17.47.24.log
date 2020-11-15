@@ -1,0 +1,88 @@
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUserSAAU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUserSAAU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+
+-----------------------------------------Test 'verifynavigationToPLPAU'------------------------------
+
+Start-> verifynavigationToPLPAU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyMessageDisplayedInStoreAU'------------------------------
+
+Start-> verifyMessageDisplayedInStoreAU
+
+ ********Test Description = To verify no result message is displayed for invalid address in store locator page for Australia site
+
+Tried to run command without establishing a connection
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 19576, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4ef19967-1bca-45ef-aae6-03b95da9764e
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:47:32] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUserSAAU
+
+--------------
+
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver
+
+          ***Result = CONFIGURATION FAILED
+
+[08/18/2020 17:47:32] END CONFIG ->com.testCases.HomePageTestCases.tearDown
+
+--------------
+
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver
+
+          ***Result = CONFIGURATION FAILED
+
+[08/18/2020 17:47:32] END CONFIG ->com.testCases.HomePageTestCases.setUp
+
+--------------
+
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: driver.version: RemoteWebDriver
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:47:32] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUserSAAU
+
+--------------
+

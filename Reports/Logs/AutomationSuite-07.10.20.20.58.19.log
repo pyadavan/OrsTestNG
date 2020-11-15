@@ -1,0 +1,1694 @@
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+*****Result = PASSED
+
+[07/10/2020 21:01:01] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:03:08] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:05:15] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 21:07:21] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifySortingFunctionality'------------------------------
+
+Start-> verifySortingFunctionality
+
+ ********Test Description = To verify sort by functionality in PLP
+
+*****Result = PASSED
+
+[07/10/2020 21:09:58] END -> verifySortingFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifycheCkStockAvailabilityFunctionality'------------------------------
+
+Start-> verifycheCkStockAvailabilityFunctionality
+
+ ********Test Description = To Verify the CTA of  "Check Stock Availability at Future Date " link.
+
+*****Result = PASSED
+
+[07/10/2020 21:11:22] END -> verifycheCkStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = To verify the functionality of Check ETA button in PLP
+
+*****Result = PASSED
+
+[07/10/2020 21:13:40] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+*****Result = PASSED
+
+[07/10/2020 21:15:20] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = To verify the selection of past dates are not allowed in the Date picker.
+
+*****Result = PASSED
+
+[07/10/2020 21:16:55] END -> verifyCheckStockAvailabilityForPastDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = To verify the stock information displayed for any selected date.
+
+*****Result = PASSED
+
+[07/10/2020 21:18:33] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = To verify the functionality of OK CTA displayed on the Popup.
+
+*****Result = PASSED
+
+[07/10/2020 21:20:17] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from PLP to PDP
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:21:43] END ->com.testCases.PLPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from PLP to PDP
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:23:29] END ->com.testCases.PLPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from PLP to PDP
+
+*****Result = PASSED
+
+[07/10/2020 21:25:40] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+Total Passed = 9, Total Failed = 1, Total Skipped = 4
+
+
+Suite Start Date: 07.10.2020.21.25.41.log
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the page navigation to Product Detailed Page(PDP)
+
+*****Result = PASSED
+
+[07/10/2020 21:27:24] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayOfCheckStockAvilabilityFutureDate'------------------------------
+
+Start-> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  below the add to wishlist&Compare CTA.
+
+*****Result = PASSED
+
+[07/10/2020 21:28:49] END -> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+*****Result = PASSED
+
+[07/10/2020 21:30:41] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = To Verify the CTA of  "Check Stock Availability at Future Date " link.
+
+*****Result = PASSED
+
+[07/10/2020 21:32:17] END -> verifyChekStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayingOfDisclaimerMessage'------------------------------
+
+Start-> verifyDisplayingOfDisclaimerMessage
+
+ ********Test Description = To verify the Disclaimer text display on all the time on this Popup.
+
+*****Result = PASSED
+
+[07/10/2020 21:33:54] END -> verifyDisplayingOfDisclaimerMessage
+
+----
+
+
+-----------------------------------------Test 'verifyCurrentDateAndPreviousDateSelection'------------------------------
+
+Start-> verifyCurrentDateAndPreviousDateSelection
+
+ ********Test Description = To verify the selection of Previous and Currents dates in the Date picker.
+
+*****Result = PASSED
+
+[07/10/2020 21:35:46] END -> verifyCurrentDateAndPreviousDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyDiffrentDateSelection'------------------------------
+
+Start-> verifyDiffrentDateSelection
+
+ ********Test Description = To verify the user able to select different dates ,one after the other.
+
+*****Result = PASSED
+
+[07/10/2020 21:38:10] END -> verifyDiffrentDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyDateFormatInDatepicker'------------------------------
+
+Start-> verifyDateFormatInDatepicker
+
+ ********Test Description = To verify the Date formate displayed in the picker.
+
+*****Result = PASSED
+
+[07/10/2020 21:40:37] END -> verifyDateFormatInDatepicker
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = To verify the stock information displayed for any selected date.
+
+*****Result = PASSED
+
+[07/10/2020 21:42:40] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = To verify the functionality of OK CTA displayed on the Popup.
+
+*****Result = PASSED
+
+[07/10/2020 21:44:58] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyPopupCloseButtonFunctionality'------------------------------
+
+Start-> verifyPopupCloseButtonFunctionality
+
+ ********Test Description = To verify the functionality of OK CTA displayed on the Popup.
+
+*****Result = PASSED
+
+[07/10/2020 21:46:44] END -> verifyPopupCloseButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = To verify the functionality of Check ETA button in PDP
+
+*****Result = PASSED
+
+[07/10/2020 21:48:38] END -> verifyCheckETAFunctionality
+
+----
+
+
+Total Passed = 21, Total Failed = 1, Total Skipped = 4
+
+
+Suite Start Date: 07.10.2020.21.48.39.log
+
+-----------------------------------------Test 'verifySignUpABNwithoutACN'------------------------------
+
+Start-> verifySignUpABNwithoutACN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Cash account for Australia
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:49:46] END ->com.testCases.SignupTestCases.verifySignUpABNwithoutACN
+
+--------------
+
+
+-----------------------------------------Test 'verifySignUpABNwithoutACN'------------------------------
+
+Start-> verifySignUpABNwithoutACN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Cash account for Australia
+
+*****Result = PASSED
+
+[07/10/2020 21:52:57] END -> verifySignUpABNwithoutACN
+
+----
+
+
+-----------------------------------------Test 'verifySignUpwithABNACN'------------------------------
+
+Start-> verifySignUpwithABNACN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Trade account for Australia
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:54:08] END ->com.testCases.SignupTestCases.verifySignUpwithABNACN
+
+--------------
+
+
+-----------------------------------------Test 'verifySignUpwithABNACN'------------------------------
+
+Start-> verifySignUpwithABNACN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Trade account for Australia
+
+*****Result = PASSED
+
+[07/10/2020 21:57:16] END -> verifySignUpwithABNACN
+
+----
+
+
+-----------------------------------------Test 'verifyForgotPassword'------------------------------
+
+Start-> verifyForgotPassword
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in Australia site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 8832, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 90f047e0-e96e-4278-8ab5-05d843982a38
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:58:01] END ->com.testCases.SignupTestCases.verifyForgotPassword
+
+--------------
+
+
+-----------------------------------------Test 'verifyForgotPassword'------------------------------
+
+Start-> verifyForgotPassword
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in Australia site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 2956, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 79120ca2-fd13-440f-a912-e72cfd784c67
+
+*****************Result = SKIPPED
+
+[07/10/2020 21:58:45] END ->com.testCases.SignupTestCases.verifyForgotPassword
+
+--------------
+
+
+-----------------------------------------Test 'verifyForgotPassword'------------------------------
+
+Start-> verifyForgotPassword
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in Australia site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11852, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ee296d25-49eb-48ee-858c-8ca20d192c69
+
+*****************Result = FAILED
+
+[07/10/2020 21:59:29] END ->com.testCases.SignupTestCases.verifyForgotPassword
+
+--------------
+
+
+-----------------------------------------Test 'verifySignUpNZBNwithoutNZCN'------------------------------
+
+Start-> verifySignUpNZBNwithoutNZCN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Cash account for NewZealand
+
+*****Result = PASSED
+
+[07/10/2020 22:03:05] END -> verifySignUpNZBNwithoutNZCN
+
+----
+
+
+-----------------------------------------Test 'verifySignUpwithNZBNNZCN'------------------------------
+
+Start-> verifySignUpwithNZBNNZCN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Trade account for NewZealand
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:04:40] END ->com.testCases.SignupTestCases.verifySignUpwithNZBNNZCN
+
+--------------
+
+
+-----------------------------------------Test 'verifySignUpwithNZBNNZCN'------------------------------
+
+Start-> verifySignUpwithNZBNNZCN
+
+ ********Test Description = To verify the page navigation to address validation form on SignUp after selecting account type as Trade account for NewZealand
+
+*****Result = PASSED
+
+[07/10/2020 22:08:09] END -> verifySignUpwithNZBNNZCN
+
+----
+
+
+-----------------------------------------Test 'verifyForgotPasswordNZ'------------------------------
+
+Start-> verifyForgotPasswordNZ
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in New Zealand site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13408, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 919ecfaa-813d-4261-b8ac-9951e1510c5e
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:08:57] END ->com.testCases.SignupTestCases.verifyForgotPasswordNZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyForgotPasswordNZ'------------------------------
+
+Start-> verifyForgotPasswordNZ
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in New Zealand site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13788, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d6ac74c-7c2a-4a35-b76d-f46c3a27f373
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:09:41] END ->com.testCases.SignupTestCases.verifyForgotPasswordNZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyForgotPasswordNZ'------------------------------
+
+Start-> verifyForgotPasswordNZ
+
+ ********Test Description = Verify AO user is able to change the password clicking on Forgot Password link in New Zealand site.
+
+TypeError: elem is null
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10696, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 51920f7e-87b2-48a3-81bf-0cba669ef687
+
+*****************Result = FAILED
+
+[07/10/2020 22:10:30] END ->com.testCases.SignupTestCases.verifyForgotPasswordNZ
+
+--------------
+
+
+Total Passed = 25, Total Failed = 3, Total Skipped = 11
+
+
+Suite Start Date: 07.10.2020.22.10.31.log
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = To Verify the CTA of  "Check Stock Availability at Future Date " link.
+
+*****Result = PASSED
+
+[07/10/2020 22:12:09] END -> verifyChekStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+Element <div class="futureContainer"> is not clickable at point (1140,440) because another element <div class="animationload"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11360, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 24aaf559-efce-4585-8a09-32dc2cb7b32e
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:13:59] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+Element <div class="futureContainer"> is not clickable at point (1140,440) because another element <div class="animationload"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11212, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f139caf5-78ab-45b8-a9ab-466e0ccf8839
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:15:31] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+Element <div class="futureContainer"> is not clickable at point (527,521) because another element <div class="animationload"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10608, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c36b1e12-c599-47f2-956e-2bed6437c488
+
+*****************Result = FAILED
+
+[07/10/2020 22:17:06] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = To verify the selection of past dates are not allowed in the Date picker.
+
+*****Result = PASSED
+
+[07/10/2020 22:18:59] END -> verifyCheckStockAvailabilityForPastDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = To verify the stock information displayed for any selected date.
+
+*****Result = PASSED
+
+[07/10/2020 22:20:56] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = To verify the functionality of OK CTA displayed on the Popup.
+
+*****Result = PASSED
+
+[07/10/2020 22:23:07] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = To verify the functionality of Check ETA button in SRP
+
+*****Result = PASSED
+
+[07/10/2020 22:24:45] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from SRP tp PDP
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:26:12] END ->com.testCases.SRPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from SRP tp PDP
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:27:32] END ->com.testCases.SRPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from SRP tp PDP
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 22:28:54] END ->com.testCases.SRPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:29:55] END ->com.testCases.SRPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+*****Result = PASSED
+
+[07/10/2020 22:31:33] END -> verifyAddToCartFunctionality
+
+----
+
+
+Total Passed = 31, Total Failed = 5, Total Skipped = 16
+
+
+Suite Start Date: 07.10.2020.22.31.34.log
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_AU'------------------------------
+
+Start-> verifynavigationToPLP_SA_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14472, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 01cfc2bc-a5d1-40fc-8fc8-f65b4b30c8af
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:33:13] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_AU'------------------------------
+
+Start-> verifynavigationToPLP_SA_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:34:16] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_AU'------------------------------
+
+Start-> verifynavigationToPLP_SA_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16012, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5f05c977-c4d6-45f4-90af-e1246ef9ae07
+
+*****************Result = FAILED
+
+[07/10/2020 22:35:53] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_NZ'------------------------------
+
+Start-> verifynavigationToPLP_SA_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 7300, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eb2a0d60-410c-4b23-a17a-ad7da5013e3b
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:37:31] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_NZ'------------------------------
+
+Start-> verifynavigationToPLP_SA_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16044, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b096131-0496-42ca-92ca-b0ad04fab1d5
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:39:08] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_SA_NZ'------------------------------
+
+Start-> verifynavigationToPLP_SA_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 6676, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 370e0116-c559-42a5-a6b6-30f8dfeb9092
+
+*****************Result = FAILED
+
+[07/10/2020 22:40:43] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_AU'------------------------------
+
+Start-> verifynavigationToPLP_PO_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11068, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cee5f5bd-2af8-4bb5-a80a-86c188047219
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:42:19] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_AU'------------------------------
+
+Start-> verifynavigationToPLP_PO_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15336, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eb6ae986-f1b5-43e5-a875-ae83d0da7aa7
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:43:55] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_AU'------------------------------
+
+Start-> verifynavigationToPLP_PO_AU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 304, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5a78c7f9-097f-4ef0-ac04-2425a67fc854
+
+*****************Result = FAILED
+
+[07/10/2020 22:45:31] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_NZ'------------------------------
+
+Start-> verifynavigationToPLP_PO_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4236, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 80994aa9-f67e-420a-ab73-d4adc41f209c
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:47:07] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_NZ'------------------------------
+
+Start-> verifynavigationToPLP_PO_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:48:20] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLP_PO_NZ'------------------------------
+
+Start-> verifynavigationToPLP_PO_NZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16780, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f01bee7b-8149-4a76-bcd1-3e7a9aa99702
+
+*****************Result = FAILED
+
+[07/10/2020 22:50:01] END ->com.testCases.HeaderTestCases.verifynavigationToPLP_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_AU'------------------------------
+
+Start-> verifycontactus_SA_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14804, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0563a5cb-bd42-4582-b7a2-934d2a671352
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:51:38] END ->com.testCases.HeaderTestCases.verifycontactus_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_AU'------------------------------
+
+Start-> verifycontactus_SA_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16136, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e90f0826-a2ad-45d8-b78c-a731e131c5b2
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:53:21] END ->com.testCases.HeaderTestCases.verifycontactus_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_AU'------------------------------
+
+Start-> verifycontactus_SA_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10456, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a5a0c9eb-5703-429a-8eb1-4e6c11a49d0f
+
+*****************Result = FAILED
+
+[07/10/2020 22:54:57] END ->com.testCases.HeaderTestCases.verifycontactus_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_NZ'------------------------------
+
+Start-> verifycontactus_SA_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:56:00] END ->com.testCases.HeaderTestCases.verifycontactus_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_NZ'------------------------------
+
+Start-> verifycontactus_SA_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:56:59] END ->com.testCases.HeaderTestCases.verifycontactus_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_SA_NZ'------------------------------
+
+Start-> verifycontactus_SA_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 22:57:58] END ->com.testCases.HeaderTestCases.verifycontactus_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_AU'------------------------------
+
+Start-> verifycontactus_PO_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14372, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bada527e-2b26-42f2-af89-0b8a1ad6d64a
+
+*****************Result = SKIPPED
+
+[07/10/2020 22:59:35] END ->com.testCases.HeaderTestCases.verifycontactus_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_AU'------------------------------
+
+Start-> verifycontactus_PO_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16724, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0198db62-1d0a-4179-b691-1d5a9d7888ac
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:01:12] END ->com.testCases.HeaderTestCases.verifycontactus_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_AU'------------------------------
+
+Start-> verifycontactus_PO_AU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 12128, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11bd9b48-553d-4329-9a94-17c5a07ac696
+
+*****************Result = FAILED
+
+[07/10/2020 23:02:47] END ->com.testCases.HeaderTestCases.verifycontactus_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_NZ'------------------------------
+
+Start-> verifycontactus_PO_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14552, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ecf7fbea-3a9d-4f06-a549-214e219eb858
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:04:26] END ->com.testCases.HeaderTestCases.verifycontactus_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_NZ'------------------------------
+
+Start-> verifycontactus_PO_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4160, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c37f1bd3-35d0-45f2-bbff-b4482964c9ee
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:06:06] END ->com.testCases.HeaderTestCases.verifycontactus_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactus_PO_NZ'------------------------------
+
+Start-> verifycontactus_PO_NZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 9528, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2fbec87b-1a39-4c91-9510-aa4302ab913d
+
+*****************Result = FAILED
+
+[07/10/2020 23:07:42] END ->com.testCases.HeaderTestCases.verifycontactus_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_AU'------------------------------
+
+Start-> verifyregionSwitch_SA_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4912, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6b5e61ec-e31e-4d90-b152-217557cad16c
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:09:19] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_AU'------------------------------
+
+Start-> verifyregionSwitch_SA_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:10:19] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_AU'------------------------------
+
+Start-> verifyregionSwitch_SA_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 17240, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 88b7f5ed-f5a5-4f0e-92a8-5964e3b04439
+
+*****************Result = FAILED
+
+[07/10/2020 23:11:55] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_AU'------------------------------
+
+Start-> verifyregionSwitch_PO_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14856, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed78de74-d9c2-4971-a6c5-684c4c2c03b5
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:13:32] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_AU'------------------------------
+
+Start-> verifyregionSwitch_PO_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:15:00] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_AU'------------------------------
+
+Start-> verifyregionSwitch_PO_AU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 23:16:20] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_NZ'------------------------------
+
+Start-> verifyregionSwitch_SA_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:17:21] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_NZ'------------------------------
+
+Start-> verifyregionSwitch_SA_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11656, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbbb6084-573e-4e2a-83f4-7480f2ff421d
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:18:57] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_SA_NZ'------------------------------
+
+Start-> verifyregionSwitch_SA_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 23:19:58] END ->com.testCases.HeaderTestCases.verifyregionSwitch_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_NZ'------------------------------
+
+Start-> verifyregionSwitch_PO_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10056, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eb326628-6225-4aa0-bbae-5b41bd16bbc8
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:21:36] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_NZ'------------------------------
+
+Start-> verifyregionSwitch_PO_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15716, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 93b0b9cd-20a5-4a6a-88a3-60474c24a625
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:23:13] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyregionSwitch_PO_NZ'------------------------------
+
+Start-> verifyregionSwitch_PO_NZ
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+*****************Result = FAILED
+
+[07/10/2020 23:25:23] END ->com.testCases.HeaderTestCases.verifyregionSwitch_PO_NZ
+
+--------------
+
+
+Total Passed = 31, Total Failed = 17, Total Skipped = 40
+
+
+Suite Start Date: 07.10.2020.23.25.24.log
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:27:33] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 6072, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7a70042-06ec-49bc-84d3-d345ee80e7d2
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:29:50] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13080, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06a3d7d3-68b2-4b25-bb40-f303a269c114
+
+*****************Result = FAILED
+
+[07/10/2020 23:31:32] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10668, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fd3684b4-3280-4718-93b0-f3549fab1ad5
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:33:10] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 16044, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed553c5d-151c-488b-b43e-c55e0f3374fc
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:34:47] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_SA_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 9696, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 20c047a0-c5c2-4d9c-b7d8-14c69d0ab201
+
+*****************Result = FAILED
+
+[07/10/2020 23:36:26] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_SA_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13384, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 40af7d8f-5721-4f13-9198-764b8b575195
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:38:10] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:39:22] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15716, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aaacb8ad-4c9e-4a7f-bfa2-e7ae6cf3cac1
+
+*****************Result = FAILED
+
+[07/10/2020 23:41:00] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_AU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 14856, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c4b78d8c-fb60-42e4-90fa-e3b6cf3d8cbd
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:42:44] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 9948, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f73098bd-92b0-4dfc-90d7-e5225d6cb4d3
+
+*****************Result = SKIPPED
+
+[07/10/2020 23:44:22] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUser_PO_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 10988, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 413701a3-05ca-490c-a8f6-3372e455ed32
+
+*****************Result = FAILED
+
+[07/10/2020 23:46:01] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUser_PO_NZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUser_AU'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUser_AU
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+*****Result = PASSED
+
+[07/10/2020 23:46:17] END -> verifyFeatureProductSectionForGuestUser_AU
+
+----
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUser_NZ'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUser_NZ
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+*****Result = PASSED
+
+[07/10/2020 23:46:39] END -> verifyFeatureProductSectionForGuestUser_NZ
+
+----
+
+
+Total Passed = 33, Total Failed = 21, Total Skipped = 48
+

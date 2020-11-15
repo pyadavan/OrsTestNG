@@ -1,0 +1,1642 @@
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:03:51] END -> verifyNavigationFromPLPToPDP
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 13:03:58] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Trade_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Trade_SA, Trade_SA
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Trade_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:05:31] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayOfCheckStockAvilabilityFutureDate: Cash_SA'------------------------------
+
+Start-> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:06:34] END -> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 13:06:38] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayOfCheckStockAvilabilityFutureDate: Trade_SA'------------------------------
+
+Start-> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:07:23] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+*****Result = PASSED
+
+[07/28/2020 13:07:34] END -> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****************Result = FAILED
+
+[07/28/2020 13:08:04] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifySortingFunctionality: Cash_SA'------------------------------
+
+Start-> verifySortingFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:09:08] END -> verifySortingFunctionality
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 13:09:11] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifySortingFunctionality: Trade_SA'------------------------------
+
+Start-> verifySortingFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:10:08] END -> verifySortingFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifycheCkStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifycheCkStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:10:37] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:11:16] END -> verifycheCkStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifycheCkStockAvailabilityFunctionality: Trade_SA'------------------------------
+
+Start-> verifycheCkStockAvailabilityFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:11:52] END -> verifyChekStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Trade_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:12:24] END -> verifycheCkStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Cash_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:13:07] END -> verifyChekStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayingOfDisclaimerMessage: Cash_SA'------------------------------
+
+Start-> verifyDisplayingOfDisclaimerMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+expected [4] but found [8]
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:14:45] END ->com.testCases.PLPTestCases.verifyCheckETAFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Cash_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:16:02] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Trade_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:17:01] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:17:27] END ->com.testCases.PDPTestCases.verifyDisplayingOfDisclaimerMessage
+
+--------------
+
+
+-----------------------------------------Test 'verifyDisplayingOfDisclaimerMessage: Cash_SA'------------------------------
+
+Start-> verifyDisplayingOfDisclaimerMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:18:38] END -> verifyDisplayingOfDisclaimerMessage
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayingOfDisclaimerMessage: Trade_SA'------------------------------
+
+Start-> verifyDisplayingOfDisclaimerMessage
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:19:49] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 13:19:50] END -> verifyDisplayingOfDisclaimerMessage
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+
+-----------------------------------------Test 'verifyCurrentDateAndPreviousDateSelection: Cash_SA'------------------------------
+
+Start-> verifyCurrentDateAndPreviousDateSelection
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:21:10] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:21:17] END -> verifyCurrentDateAndPreviousDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyCurrentDateAndPreviousDateSelection: Trade_SA'------------------------------
+
+Start-> verifyCurrentDateAndPreviousDateSelection
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:22:24] END -> verifyCheckStockAvailabilityForPastDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:22:41] END -> verifyCurrentDateAndPreviousDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyDiffrentDateSelection: Cash_SA'------------------------------
+
+Start-> verifyDiffrentDateSelection
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:24:29] END -> verifyCheckStockAvailabilityForPastDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:24:41] END -> verifyDiffrentDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyDiffrentDateSelection: Trade_SA'------------------------------
+
+Start-> verifyDiffrentDateSelection
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:25:45] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:26:42] END -> verifyDiffrentDateSelection
+
+----
+
+
+-----------------------------------------Test 'verifyDateFormatInDatepicker: Cash_SA'------------------------------
+
+Start-> verifyDateFormatInDatepicker
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:26:58] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Cash_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:28:02] END -> verifyDateFormatInDatepicker
+
+----
+
+
+-----------------------------------------Test 'verifyDateFormatInDatepicker: Trade_SA'------------------------------
+
+Start-> verifyDateFormatInDatepicker
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:28:20] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Trade_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:29:28] END -> verifyDateFormatInDatepicker
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 13:29:35] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:30:35] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Trade_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:31:00] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:32:20] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Cash_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:32:28] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:33:55] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Trade_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:34:51] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:35:31] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyPopupCloseButtonFunctionality: Cash_SA'------------------------------
+
+Start-> verifyPopupCloseButtonFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:36:50] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Cash_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:37:42] END -> verifyPopupCloseButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyPopupCloseButtonFunctionality: Trade_SA'------------------------------
+
+Start-> verifyPopupCloseButtonFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:39:05] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Trade_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:39:46] END -> verifyPopupCloseButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Cash_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:41:07] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Trade_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:41:29] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+-----------------------------------------Test 'verifyItemPerPageFunctionality: Cash_SA'------------------------------
+
+Start-> verifyItemPerPageFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+expected [2] but found [6]
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:42:30] END ->com.testCases.PDPTestCases.verifyCheckETAFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Trade_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:42:47] END ->com.testCases.PLPTestCases.verifyItemPerPageFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyItemPerPageFunctionality: Cash_SA'------------------------------
+
+Start-> verifyItemPerPageFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:43:48] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PDP
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:44:38] END ->com.testCases.PDPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PDP
+
+*****************Result = FAILED
+
+[07/28/2020 13:45:23] END ->com.testCases.PDPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Cash_SA, Cash_SA
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/28/2020 13:45:35] END ->com.testCases.PLPTestCases.verifyItemPerPageFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyItemPerPageFunctionality: Trade_SA'------------------------------
+
+Start-> verifyItemPerPageFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/28/2020 13:49:48] END ->com.testCases.PLPTestCases.verifyItemPerPageFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyItemPerPageFunctionality: Trade_SA'------------------------------
+
+Start-> verifyItemPerPageFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/28/2020 13:50:55] END ->com.testCases.PLPTestCases.verifyItemPerPageFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'navigationFromPLPToShoppingCart: Cash_SA'------------------------------
+
+Start-> navigationFromPLPToShoppingCart
+
+ ********Test Description = Cash_SA, Cash_SA
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:51:11] END ->com.testCases.PDPTestCases.verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:52:26] END -> navigationFromPLPToShoppingCart
+
+----
+
+
+-----------------------------------------Test 'navigationFromPLPToShoppingCart: Trade_SA'------------------------------
+
+Start-> navigationFromPLPToShoppingCart
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:52:54] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:53:48] END -> navigationFromPLPToShoppingCart
+
+----
+
+
+-----------------------------------------Test 'navigationFromPLPToCheckout: Cash_SA'------------------------------
+
+Start-> navigationFromPLPToCheckout
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:54:33] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayingSignCTAForNonLoggedinUser'------------------------------
+
+Start-> verifyDisplayingSignCTAForNonLoggedinUser
+
+ ********Test Description = To Verify the display of  "Sign In" CTA for the non logged in Users.
+
+*****Result = PASSED
+
+[07/28/2020 13:54:58] END -> verifyDisplayingSignCTAForNonLoggedinUser
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Cash_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:55:27] END -> navigationFromPLPToCheckout
+
+----
+
+
+-----------------------------------------Test 'navigationFromPLPToCheckout: Trade_SA'------------------------------
+
+Start-> navigationFromPLPToCheckout
+
+ ********Test Description = Trade_SA, Trade_SA
+
+Expected condition failed: waiting for invisibility of [[FirefoxDriver: firefox on WINDOWS (523deb63-abb3-492f-849f-08f6436166d7)] -> xpath: //div[@id='hs-page-loading']] (tried for 40 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 8344, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 523deb63-abb3-492f-849f-08f6436166d7
+
+*****************Result = SKIPPED
+
+[07/28/2020 13:56:32] END ->com.testCases.PLPTestCases.navigationFromPLPToCheckout
+
+--------------
+
+
+-----------------------------------------Test 'navigationFromPLPToCheckout: Trade_SA'------------------------------
+
+Start-> navigationFromPLPToCheckout
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:57:07] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Trade_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:58:02] END -> navigationFromPLPToCheckout
+
+----
+
+
+Total Passed = 54, Total Failed = 5, Total Skipped = 8
+
+
+Suite Start Date: 07.28.2020.13.58.03.log
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 13:59:08] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+Total Passed = 55, Total Failed = 5, Total Skipped = 8
+
+
+Suite Start Date: 07.28.2020.13.59.09.log
+
+-----------------------------------------Test 'verifynavigationToPLPAU'------------------------------
+
+Start-> verifynavigationToPLPAU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+*****Result = PASSED
+
+[07/28/2020 13:59:50] END -> verifynavigationToPLPAU
+
+----
+
+
+-----------------------------------------Test 'verifynavigationToPLPNZ'------------------------------
+
+Start-> verifynavigationToPLPNZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:00:32] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 23380, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4f032553-5106-481d-a3da-b687f79aa5c0
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:00:46] END ->com.testCases.HeaderTestCases.verifynavigationToPLPNZ
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLPNZ'------------------------------
+
+Start-> verifynavigationToPLPNZ
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+TypeError: rect is undefined
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13032, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b4feadeb-6820-4c06-b31c-68b201d3a1f2
+
+*****************Result = FAILED
+
+[07/28/2020 14:01:41] END ->com.testCases.HeaderTestCases.verifynavigationToPLPNZ
+
+--------------
+
+
+-----------------------------------------Test 'verifycontactusAU'------------------------------
+
+Start-> verifycontactusAU
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+*****Result = PASSED
+
+[07/28/2020 14:02:06] END -> verifycontactusAU
+
+----
+
+
+-----------------------------------------Test 'verifycontactusNZ'------------------------------
+
+Start-> verifycontactusNZ
+
+ ********Test Description = To verify able to navigate to Contact us page on click of Contact Us link in th header
+
+*****Result = PASSED
+
+[07/28/2020 14:02:30] END -> verifycontactusNZ
+
+----
+
+
+-----------------------------------------Test 'verifyregionSwitchAU'------------------------------
+
+Start-> verifyregionSwitchAU
+
+ ********Test Description = To verify able to switch the region frm Au to Nz and vice-versa
+
+*****************Result = FAILED
+
+[07/28/2020 14:03:03] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+*****Result = PASSED
+
+[07/28/2020 14:03:07] END -> verifyregionSwitchAU
+
+----
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Trade_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+
+-----------------------------------------Test 'verifyregionSwitchNZ'------------------------------
+
+Start-> verifyregionSwitchNZ
+
+ ********Test Description = To verify able to switch the region frm Nz to Au and vice-versa
+
+*****Result = PASSED
+
+[07/28/2020 14:03:24] END -> verifyregionSwitchNZ
+
+----
+
+
+Total Passed = 60, Total Failed = 7, Total Skipped = 10
+
+
+Suite Start Date: 07.28.2020.14.03.26.log
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUserSAAU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUserSAAU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+*****Result = PASSED
+
+[07/28/2020 14:04:05] END -> verifyFeatureProductSectionForLoggedInUserSAAU
+
+----
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUserSANZ'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUserSANZ
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+*****Result = PASSED
+
+[07/28/2020 14:04:55] END -> verifyFeatureProductSectionForLoggedInUserSANZ
+
+----
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUserAU'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUserAU
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:05:43] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForGuestUserAU
+
+--------------
+
+*****************Result = FAILED
+
+[07/28/2020 14:05:47] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUserAU'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUserAU
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Trade_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = FAILED
+
+[07/28/2020 14:06:32] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForGuestUserAU
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUserNZ'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUserNZ
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:07:19] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForGuestUserNZ
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForGuestUserNZ'------------------------------
+
+Start-> verifyFeatureProductSectionForGuestUserNZ
+
+ ********Test Description = To verify Feature productsection in Homepage for Guest users
+
+*****************Result = FAILED
+
+[07/28/2020 14:08:04] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForGuestUserNZ
+
+--------------
+
+
+Total Passed = 62, Total Failed = 10, Total Skipped = 12
+
+
+Suite Start Date: 07.28.2020.14.08.05.log
+
+-----------------------------------------Test 'verifyMessageDisplayedInStoreAU'------------------------------
+
+Start-> verifyMessageDisplayedInStoreAU
+
+ ********Test Description = To verify no result message is displayed for invalid address in store locator page for Australia site
+
+*****Result = PASSED
+
+[07/28/2020 14:08:18] END -> verifyMessageDisplayedInStoreAU
+
+----
+
+
+-----------------------------------------Test 'verifyMessageDisplayedInStoreNZ'------------------------------
+
+Start-> verifyMessageDisplayedInStoreNZ
+
+ ********Test Description = To verify no result message is displayed for invalid address in store locator page for Newzealand site
+
+*****************Result = FAILED
+
+[07/28/2020 14:08:28] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+*****Result = PASSED
+
+[07/28/2020 14:08:34] END -> verifyMessageDisplayedInStoreNZ
+
+----
+
+
+Total Passed = 64, Total Failed = 11, Total Skipped = 12
+
+
+Suite Start Date: 07.28.2020.14.08.35.log
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifycartvalueinminicartoverlaySAAU: Cash_SA'------------------------------
+
+Start-> verifycartvalueinminicartoverlaySAAU
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:09:59] END -> verifycartvalueinminicartoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifycartvalueinminicartoverlaySAAU: Trade_SA'------------------------------
+
+Start-> verifycartvalueinminicartoverlaySAAU
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:11:03] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:11:12] END -> verifycartvalueinminicartoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifycarteidtinminicartoverlaySAAU: Cash_SA'------------------------------
+
+Start-> verifycarteidtinminicartoverlaySAAU
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:12:35] END -> verifycarteidtinminicartoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifycarteidtinminicartoverlaySAAU: Trade_SA'------------------------------
+
+Start-> verifycarteidtinminicartoverlaySAAU
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = FAILED
+
+[07/28/2020 14:13:35] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:13:55] END -> verifycarteidtinminicartoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifyfunctionalityofXbuttonoverlaySAAU: Cash_SA'------------------------------
+
+Start-> verifyfunctionalityofXbuttonoverlaySAAU
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****************Result = FAILED
+
+[07/28/2020 14:16:05] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:17:01] END -> verifyfunctionalityofXbuttonoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifyfunctionalityofXbuttonoverlaySAAU: Trade_SA'------------------------------
+
+Start-> verifyfunctionalityofXbuttonoverlaySAAU
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:18:33] END -> verifyfunctionalityofXbuttonoverlaySAAU
+
+----
+
+*****************Result = FAILED
+
+[07/28/2020 14:18:37] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyfunctionalityofCheckoutbuttonoverlaySAAU: Cash_SA'------------------------------
+
+Start-> verifyfunctionalityofCheckoutbuttonoverlaySAAU
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:19:55] END -> verifyfunctionalityofCheckoutbuttonoverlaySAAU
+
+----
+
+
+-----------------------------------------Test 'verifyfunctionalityofCheckoutbuttonoverlaySAAU: Trade_SA'------------------------------
+
+Start-> verifyfunctionalityofCheckoutbuttonoverlaySAAU
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:21:12] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForPastDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:21:36] END -> verifyfunctionalityofCheckoutbuttonoverlaySAAU
+
+----
+
+
+Total Passed = 72, Total Failed = 14, Total Skipped = 14
+
+*****************Result = FAILED
+
+[07/28/2020 14:24:11] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForPastDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = FAILED
+
+[07/28/2020 14:26:39] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForPastDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****************Result = FAILED
+
+[07/28/2020 14:29:14] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForPastDate
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:31:46] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityMessage
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:33:17] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:34:51] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Cash_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:36:28] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality: Trade_SA'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:38:07] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Cash_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:39:13] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Trade_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+expected [1] but found [5]
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:40:21] END ->com.testCases.SRPTestCases.verifyCheckETAFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality: Trade_SA'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+Element is disabled: <input class="mt10 mb10 hs-item-quantity " type="number">
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 23940, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1423aa2b-611d-47b0-8f36-ac91f4a9029f
+
+*****************Result = FAILED
+
+[07/28/2020 14:41:23] END ->com.testCases.SRPTestCases.verifyCheckETAFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromSRPToPDP: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromSRPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:42:38] END -> verifyNavigationFromSRPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromSRPToPDP: Trade_SA'------------------------------
+
+Start-> verifyNavigationFromSRPToPDP
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:43:42] END -> verifyNavigationFromSRPToPDP
+
+----
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:44:57] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Trade_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:46:10] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Cash_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:47:42] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Trade_SA, Trade_SA
+
+Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on WINDOWS (3b7ecc73-eb75-466e-8186-734ce99f4083)] -> xpath: //*[@id='datepicker']] (tried for 40 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 24848, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b7ecc73-eb75-466e-8186-734ce99f4083
+
+*****************Result = SKIPPED
+
+[07/28/2020 14:49:56] END ->com.testCases.SRPTestCases.verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+--------------
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDateForOutofStockProduct: Trade_SA'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:51:20] END -> verifyCheckStockAvailabilityForFutureDateForOutofStockProduct
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Cash_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:53:18] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+-----------------------------------------Test 'verifyStockInformationNotAvailableForSelectedDate: Trade_SA'------------------------------
+
+Start-> verifyStockInformationNotAvailableForSelectedDate
+
+ ********Test Description = Trade_SA, Trade_SA
+
+*****Result = PASSED
+
+[07/28/2020 14:55:09] END -> verifyStockInformationNotAvailableForSelectedDate
+
+----
+
+
+Total Passed = 85, Total Failed = 18, Total Skipped = 17
+

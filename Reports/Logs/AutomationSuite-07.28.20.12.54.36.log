@@ -1,0 +1,53 @@
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+ ********Test Description = Cash_SA, Cash_SA
+
+*****Result = PASSED
+
+[07/28/2020 12:55:36] END -> verifyNavigationFromPLPToPDP
+
+----
+
+*****Result = PASSED
+
+[07/28/2020 12:55:39] END -> verifyAddToCartFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyDisplayOfCheckStockAvilabilityFutureDate: Cash_SA'------------------------------
+
+Start-> verifyDisplayOfCheckStockAvilabilityFutureDate
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+
+*****************Result = SKIPPED
+
+[07/28/2020 12:56:23] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = To verify Add to cart button is disabled for AO users in PLP
+

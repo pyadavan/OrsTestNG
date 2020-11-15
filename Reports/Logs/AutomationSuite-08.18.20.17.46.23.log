@@ -1,0 +1,240 @@
+
+-----------------------------------------Test 'verifyMessageDisplayedInStoreAU'------------------------------
+
+Start-> verifyMessageDisplayedInStoreAU
+
+ ********Test Description = To verify no result message is displayed for invalid address in store locator page for Australia site
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/installer&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 18004, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dab038ea-b6ca-48d9-b519-c186db7b3b01
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:24] END ->com.testCases.StoreLocatorTestCases.verifyMessageDisplayedInStoreAU
+
+--------------
+
+
+-----------------------------------------Test 'verifynavigationToPLPAU'------------------------------
+
+Start-> verifynavigationToPLPAU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 18452, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 96cbb004-98e7-4b09-8da2-3ac6c34dd44a
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:24] END ->com.testCases.HeaderTestCases.verifynavigationToPLPAU
+
+--------------
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 13640, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d0f8d9d1-30c3-4017-b8e4-3be8b6570306
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:24] END ->com.testCases.PDPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 3208, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 86c30199-2ce5-427a-bf17-abcae66b3743
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:25] END ->com.testCases.PLPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUserSAAU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUserSAAU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 17864, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb61bffd-cc30-4e64-a4dc-4e370cb3a092
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:25] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 17056, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 689a3b5e-8ff0-4e99-9528-522399b4c007
+
+*****************Result = SKIPPED
+
+[08/18/2020 17:46:25] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUserSAAU
+
+--------------
+
+
+-----------------------------------------Test 'verifyMessageDisplayedInStoreAU'------------------------------
+
+Start-> verifyMessageDisplayedInStoreAU
+
+ ********Test Description = To verify no result message is displayed for invalid address in store locator page for Australia site
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/installer&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11396, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8c193da7-3331-4fd5-8b4f-161b30186179
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:37] END ->com.testCases.StoreLocatorTestCases.verifyMessageDisplayedInStoreAU
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality: Cash_SA'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+
+-----------------------------------------Test 'verifynavigationToPLPAU'------------------------------
+
+Start-> verifynavigationToPLPAU
+
+ ********Test Description = To verify navigation to PLP from megamenu layover
+
+
+-----------------------------------------Test 'verifyFeatureProductSectionForLoggedInUserSAAU'------------------------------
+
+Start-> verifyFeatureProductSectionForLoggedInUserSAAU
+
+ ********Test Description = To verify Feature productsection in Homepage for logged in users
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 5792, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a3cd8c60-ebef-448e-ab57-e551febdc6ab
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:40] END ->com.testCases.PLPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyChekStockAvailabilityFunctionality: Cash_SA'------------------------------
+
+Start-> verifyChekStockAvailabilityFunctionality
+
+ ********Test Description = Cash_SA, Cash_SA
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 6912, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 925c80ae-ed6e-46b0-b8f1-f5d90cfe1c72
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:40] END ->com.testCases.HeaderTestCases.verifynavigationToPLPAU
+
+--------------
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15164, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c0f4ee91-de0c-47a1-9fc8-5368b420f1af
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:40] END ->com.testCases.HomePageTestCases.verifyFeatureProductSectionForLoggedInUserSAAU
+
+--------------
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 11936, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d2836fef-95b6-40b3-8f25-e366eb1fb5c1
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:40] END ->com.testCases.SRPTestCases.verifyChekStockAvailabilityFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP: Cash_SA'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = Cash_SA, Cash_SA
+
+Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.hills.com.au/user/login&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.hills.com.au.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200708170202, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 21524, moz:profile: C:\Users\pankajkumar.y\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 064c16e4-b562-4827-b48f-f9f6d47f63bc
+
+*****************Result = FAILED
+
+[08/18/2020 17:46:42] END ->com.testCases.PDPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+

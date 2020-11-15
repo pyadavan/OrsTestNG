@@ -1,0 +1,243 @@
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+unknown error: Cannot read property 'getBoundingClientRect' of null
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\PANKAJ~1.Y\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.116, webStorageEnabled: true}
+Session ID: f470b327be3b9f93882e17d264a529a4
+
+*****************Result = SKIPPED
+
+[07/10/2020 19:41:46] END ->com.testCases.PLPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+unknown error: Cannot read property 'getBoundingClientRect' of null
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\PANKAJ~1.Y\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.116, webStorageEnabled: true}
+Session ID: 8d41fa8305a1c41ace362fbe191ee02a
+
+*****************Result = SKIPPED
+
+[07/10/2020 19:43:15] END ->com.testCases.PLPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartFunctionality'------------------------------
+
+Start-> verifyAddToCartFunctionality
+
+ ********Test Description = verify add to cart functionality
+
+unknown error: Cannot read property 'getBoundingClientRect' of null
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:31.527Z'
+System info: host: 'ECH-LPT-356', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\PANKAJ~1.Y\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 83.0.4103.116, webStorageEnabled: true}
+Session ID: 2b4de29b73d0a48073e664852b845791
+
+*****************Result = FAILED
+
+[07/10/2020 19:44:48] END ->com.testCases.PLPTestCases.verifyAddToCartFunctionality
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = null
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 19:46:17] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = null
+
+expected [true] but found [false]
+
+*****************Result = SKIPPED
+
+[07/10/2020 19:47:44] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifyAddToCartDisabledFunctionalityForAOUsers'------------------------------
+
+Start-> verifyAddToCartDisabledFunctionalityForAOUsers
+
+ ********Test Description = null
+
+expected [true] but found [false]
+
+*****************Result = FAILED
+
+[07/10/2020 19:49:12] END ->com.testCases.PLPTestCases.verifyAddToCartDisabledFunctionalityForAOUsers
+
+--------------
+
+
+-----------------------------------------Test 'verifySortingFunctionality'------------------------------
+
+Start-> verifySortingFunctionality
+
+ ********Test Description = To verify sort by functionality in PLP
+
+*****Result = PASSED
+
+[07/10/2020 19:50:44] END -> verifySortingFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifycheCkStockAvailabilityFunctionality'------------------------------
+
+Start-> verifycheCkStockAvailabilityFunctionality
+
+ ********Test Description = To Verify the CTA of  "Check Stock Availability at Future Date " link.
+
+*****Result = PASSED
+
+[07/10/2020 19:53:02] END -> verifycheCkStockAvailabilityFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckETAFunctionality'------------------------------
+
+Start-> verifyCheckETAFunctionality
+
+ ********Test Description = To verify the functionality of Check ETA button in PLP
+
+*****Result = PASSED
+
+[07/10/2020 19:54:40] END -> verifyCheckETAFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForFutureDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForFutureDate
+
+ ********Test Description = To verify the display of "Check Stock Availability at Future Date " CTA  for the Out of Stock Products.
+
+*****Result = PASSED
+
+[07/10/2020 19:56:54] END -> verifyCheckStockAvailabilityForFutureDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityForPastDate'------------------------------
+
+Start-> verifyCheckStockAvailabilityForPastDate
+
+ ********Test Description = To verify the selection of past dates are not allowed in the Date picker.
+
+*****Result = PASSED
+
+[07/10/2020 19:58:43] END -> verifyCheckStockAvailabilityForPastDate
+
+----
+
+
+-----------------------------------------Test 'verifyCheckStockAvailabilityMessage'------------------------------
+
+Start-> verifyCheckStockAvailabilityMessage
+
+ ********Test Description = To verify the stock information displayed for any selected date.
+
+*****Result = PASSED
+
+[07/10/2020 20:00:40] END -> verifyCheckStockAvailabilityMessage
+
+----
+
+
+-----------------------------------------Test 'verifyOkButtonFunctionality'------------------------------
+
+Start-> verifyOkButtonFunctionality
+
+ ********Test Description = To verify the functionality of OK CTA displayed on the Popup.
+
+*****Result = PASSED
+
+[07/10/2020 20:02:50] END -> verifyOkButtonFunctionality
+
+----
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the navigation functionality from PLP tp PDP
+
+*****Result = PASSED
+
+[07/10/2020 20:05:20] END -> verifyNavigationFromPLPToPDP
+
+----
+
+
+Total Passed = 8, Total Failed = 2, Total Skipped = 4
+
+
+Suite Start Date: 07.10.2020.20.05.21.log
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the page navigation to Product Detailed Page(PDP)
+
+*****************Result = SKIPPED
+
+[07/10/2020 20:06:25] END ->com.testCases.PDPTestCases.verifyNavigationFromPLPToPDP
+
+--------------
+
+
+-----------------------------------------Test 'verifyNavigationFromPLPToPDP'------------------------------
+
+Start-> verifyNavigationFromPLPToPDP
+
+ ********Test Description = To verify the page navigation to Product Detailed Page(PDP)
+
