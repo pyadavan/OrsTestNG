@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite" parallel="tests" thread-count="4"
+	preserve-order="true">
+
+	<listeners>
+		<listener class-name="com.utility.AnnotationTransformer" />
+		<listener
+			class-name="com.utility.ExtentTestNGIReporterListener" />
+		<listener class-name="com.utility.TestNG_ConsoleRunner" />
+	</listeners>
+
+	<test name="PLPTestCases">
+		<classes>
+			<class name="com.testCases.PLPTestCases" />
+		</classes>
+	</test>
+	<test name="PDPTestCases">
+		<classes>
+			<class name="com.testCases.PDPTestCases" />
+		</classes>
+	</test>	
+	<test name="SRPTestCases">
+		<classes>
+			<class name="com.testCases.SRPTestCases" />
+		</classes>
+	</test>
+	<test name="HeaderTestCases">
+		<classes>
+			<class name="com.testCases.HeaderTestCases" />
+		</classes>
+	</test>	
+	<test name="HomePageTestCases">
+		<classes>
+			 <class name="com.testCases.HomePageTestCases"/>
+		</classes>
+	</test>
+	<test name="StoreLocatorTestCases">
+		<classes>
+			 <class name="com.testCases.StoreLocatorTestCases"/>
+		</classes>
+	</test>
+	<test name="MiniCartTestCases">
+		<classes>
+			 <class name="com.testCases.MiniCartTestCases"/>
+		</classes>
+	</test>
+	<test name="ShoppingCartTestCases">
+		<classes>
+			 <class name="com.testCases.ShoppingCartTestCases"/>
+		</classes>
+	</test> 
+</suite> <!-- Suite -->

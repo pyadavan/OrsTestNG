@@ -1,0 +1,11 @@
+1597935586686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PANKAJ~1.Y\\AppData\\Local\\Temp\\rust_mozprofile.nElAdWEFT8Kd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597935589307	Marionette	INFO	Listening on port 56574
+1597935589800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597935602847	Marionette	INFO	Stopped listening on port 56574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
